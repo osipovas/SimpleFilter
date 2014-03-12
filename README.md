@@ -3,6 +3,14 @@ SimpleFilter
 
 The first application assignment for ECE 493 (Winter 2014).
 
+Libraries
+=========
+aFileChooser https://github.com/iPaulPro/aFileChooser
+PhotoView https://github.com/chrisbanes/PhotoView
+
+Specifications
+==============
+
 ECE 493 Software Systems Design Project
 Winter 2013
 Laboratory Assignment #1
