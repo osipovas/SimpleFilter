@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleFilter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="perform_mean_filter">Perform Mean Filter</string>
+    <string name="perform_median_filter">Perform Median Filter</string>
+    <string name="load_image">Load Image</string>
+    <string name="image_placeholder">Image Placeholder</string>
+    <string name="filter_size">Filter Size</string>
+    <string name="filter_size_description">The size of the filter (odd number)</string>
+
+</resources>
